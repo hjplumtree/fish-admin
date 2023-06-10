@@ -1,0 +1,1 @@
+# making scene with components
